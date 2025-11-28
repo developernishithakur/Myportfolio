@@ -9,7 +9,7 @@ Designed to showcase your skills, projects, and experience with elegant animatio
 
 ## 🔗 Live Demo
 You can preview the portfolio locally by opening `index.html` in a modern browser.  
-Or access the online demo here: [Live Demo](https://github.com/developernishi/)
+Or access the online demo here: [Live Demo](https://github.com/developernishithakur/)
 
 ---
 
@@ -74,7 +74,7 @@ You’ll see your personal portfolio running locally
 - Email: nishikumari26112004@gmail.com   
 - Location: Patna, Bihar, India 
 - LinkedIn: [LinkedIn](www.linkedin.com/in/nishi-kumari-26112004)  
-- GitHub: [GitHub](https://github.com/developernishi)  
+- GitHub: [GitHub](https://github.com/developernishithakur)  
 - Instagram: [Instagram](https://www.instagram.com/ni__s__hi/?utm_source=ig_web_button_share_sheet)
 
 ---
