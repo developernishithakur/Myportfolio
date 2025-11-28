@@ -71,7 +71,7 @@ You’ll see your personal portfolio running locally
 
 ## 📬 Contact
 
-- Email: nishikumari26112004@gmail.com   
+- Email: nishikumari15962@gmail.com   
 - Location: Patna, Bihar, India 
 - LinkedIn: [LinkedIn](www.linkedin.com/in/nishi-kumari-26112004)  
 - GitHub: [GitHub](https://github.com/developernishithakur)  
